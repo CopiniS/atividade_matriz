@@ -1,7 +1,7 @@
 import socket
 import pickle
 
-##just test
+##just test 2
 class Cliente:
     def __init__(self, host, port):
         self.host = host
